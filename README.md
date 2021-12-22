@@ -15,5 +15,21 @@ This is a ReWire implementation for OpenMPT.
 5. In OpenMPT, press play again. 
 > Voilla!
 
+
+## SOURCE CODE
+https://github.com/vananasun/openmpt-maxim
+
 ------------
-**Note that due to Propellerhead's strict licensing of the ReWire SDK, I  cannot open-source the project currently. Perhaps in the future after I figured out more / contacted them. For more information, email me: mvandijk303@gmail.com**
+Tags so ppl can find the ReWire SDK source on Google:
+
+ReWire.c
+ReWire.h
+ReWireAPI.cpp
+ReWireAPI.h
+ReWireDeviceAPI.c
+ReWireDeviceAPI.h
+ReWireMixerAPI.c
+ReWireMixerAPI.h
+ReWirePanelAPI.c
+ReWirePanelAPI.h
+RWDEFAPI.h
